@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
     {"id":{"name":"spr_sad_face","path":"sprites/spr_sad_face/spr_sad_face.yy",},"order":1,},
     {"id":{"name":"spr_happy_face","path":"sprites/spr_happy_face/spr_happy_face.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -45,7 +46,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "gms2_github",
